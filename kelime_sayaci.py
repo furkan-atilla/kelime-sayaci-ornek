@@ -15,15 +15,3 @@ metin = input("Bir metin giriniz: ")
 sonuc = kelime_say(metin)
 
 print(sonuc)
-        
-        
-        
-  
-
-
-
-    
-
-
-
-
